@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppArt</string>
+    <string name="doEnableDarkMode">Enable a dark mode?\n</string>
+</resources>
